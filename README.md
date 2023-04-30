@@ -2,9 +2,9 @@
 
 <h1> User Story </h1>
 <p>
-AS A manager
-I WANT to generate a webpage that displays my teams' basic info
-SO THAT I have quick access to their emails and GitHub profiles
+AS A business owner 
+I WANT to be able to view and manage the departments, roles, and employees in my company
+SO THAT I can organize and plan my business
 </p>
 
 <h3> Live Website </h3>
