@@ -8,6 +8,7 @@ SO THAT I can organize and plan my business
 </p>
 
 <h3> Live Website </h3>
+https://uhfrankie.github.io/employee-tracker-challenge/
 
 ## Questions
 If have any questions for me, please [contact me](mailto:frankie01marie@yahoo.com).
